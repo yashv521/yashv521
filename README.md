@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yashv521
-- 👀 I’m interested in learning new and imteresting stuff
-- 🌱 I’m currently learning C++,Web-dev,unity,premiere pro
-- 💞️ I’m looking to collaborate on web development,video editing
+- 👀 I’m interested in learning new and interesting stuff
+- 🌱 I’m currently learning C++,Web-dev,unity,premiere pro..
+- 💞️ I’m looking to collaborate on web development,video editing..
 - 📫 How to reach me --via email (yashv521@gmail.com)
 
 <!---
