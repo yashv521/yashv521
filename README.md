@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @yashv521
 - 👀 I’m interested in learning new and interesting stuff
 - 🌱 I’m currently learning C++,Web-development(React),premiere pro..
+- 🥅 2022 Goals: Learn more about React.js and web development
 - 💞️ I’m looking to collaborate on web development,video editing..
+- ⚡ Fun fact: I love to sing and play cricket / Videogames
 - 📫 How to reach me --via email (yashv521@gmail.com)
 
 <!---
