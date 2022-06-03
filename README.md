@@ -9,6 +9,7 @@
 
 ### Connect with me:
 
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCBIpMvp0F8nl8gTRFFmBZJA/featured)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCBIpMvp0F8nl8gTRFFmBZJA/featured)
 &nbsp;&nbsp;
 
