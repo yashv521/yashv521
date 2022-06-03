@@ -1,4 +1,6 @@
-<a href="#"><img width="90%"  height="auto" src="Capture.PNG" height="175px"/></a>
+<p align="center">
+<a href="#"><img width="75%"  height="auto" src="fuji.gif" height="175px"/></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
@@ -48,8 +50,10 @@
 ## 📊 My Github Stats
 
   <br/>
+  <div align="center">
     <a href="https://github.com/yashv521/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yashv521&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashv521&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  </div>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
