@@ -6,6 +6,12 @@
 - ⚡ Fun fact: I love to sing and play cricket / Videogames
 - 📫 How to reach me --via email (yashv521@gmail.com)
 
+
+### Connect with me:
+
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCBIpMvp0F8nl8gTRFFmBZJA/featured)
+&nbsp;&nbsp;
+
 <!---
 yashv521/yashv521 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
