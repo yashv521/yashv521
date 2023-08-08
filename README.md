@@ -43,7 +43,7 @@
 
 <p align="center">
     <a href="https://github.com/yashv521/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="[![GitHub Streak](https://streak-stats.demolab.com/?user=yashv521)](https://git.io/streak-stats)
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://streak-stats.demolab.com/?user=yashv521&theme=tokyonight&hide_border=true&stroke=0000&background=060A0CD0
 "/>
     </a>
 </p>
@@ -62,7 +62,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Yash's Activity Graph" src="[![Yash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yashv521&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Yash's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yashv521&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
