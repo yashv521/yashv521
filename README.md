@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **[House-Square](https://house-square.vercel.app/)**
 
-- 🌱 I’m currently learning  **React.js** , **Data Structures and Algorithms.**
+- 🌱 I’m currently learning  **Linux** , **CI/CD** & various **DevOps Tools**
 
-- 👯 I’m looking to collaborate on **Web - Development projects**
+- 👯 I’m looking to collaborate on **DevOps projects**
 
 - 📫 How to reach me **yashv521@gmail.com**
 
